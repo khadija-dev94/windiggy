@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "534421064108",
+    "firebase_url": "https://puzzle-34184.firebaseio.com",
+    "project_id": "puzzle-34184",
+    "storage_bucket": "puzzle-34184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534421064108:android:59afeb1db7a88a16685209",
+        "android_client_info": {
+          "package_name": "com.moneygali.money_gali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534421064108-voqmkjf1i3jf58rflbkbfs6qceedpheh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneygali.money_gali",
+            "certificate_hash": "b159d9592d2af1a531a6f21633ab76ea7f887ca9"
+          }
+        },
+        {
+          "client_id": "534421064108-0fhgkbn8l8fmbmmhp0st1et9ut3v0b6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneygali.money_gali",
+            "certificate_hash": "c0ea9cde676a54fde9369bc27805e13bcd4778a7"
+          }
+        },
+        {
+          "client_id": "534421064108-pt1t4d29f5lta42q7t27p0v61s46j95q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneygali.money_gali",
+            "certificate_hash": "6f8e3361f91bbdbd21eeb4c6de9e5105476f497e"
+          }
+        },
+        {
+          "client_id": "534421064108-jchkb99va6rel2j2p6unm326lgs7luns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-B6VGz1CqwugHPFH67u3LTYITeJk0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534421064108-jchkb99va6rel2j2p6unm326lgs7luns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534421064108:android:4ae4a0fe2b7d6be1685209",
+        "android_client_info": {
+          "package_name": "com.puzzle.word_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534421064108-t45gpuelbcq986kn9b7clkfirohepccr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puzzle.word_search",
+            "certificate_hash": "9605d5d3cad60500c49338cb4eb4f4f1c61c6f29"
+          }
+        },
+        {
+          "client_id": "534421064108-jchkb99va6rel2j2p6unm326lgs7luns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-B6VGz1CqwugHPFH67u3LTYITeJk0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534421064108-jchkb99va6rel2j2p6unm326lgs7luns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534421064108:android:59722473ab35771a685209",
+        "android_client_info": {
+          "package_name": "com.windiggy.win_diggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534421064108-jchkb99va6rel2j2p6unm326lgs7luns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-B6VGz1CqwugHPFH67u3LTYITeJk0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534421064108-jchkb99va6rel2j2p6unm326lgs7luns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
