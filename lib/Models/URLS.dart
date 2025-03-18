@@ -1,6 +1,6 @@
 class URLS {
   ////////////////////////////////////////////////////////////////URLS
-  static const String BASEURL = 'http://dashboard.moneygali.com/server';
+  static const String BASEURL = '';
   static const String notifyServer =
       BASEURL + '/index.php/mobile/gameplay/gamewon';
   static const String signUp = BASEURL + '/index.php/mobile/usermobile/signup';
